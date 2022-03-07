@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Linux Mint
+Linux mint is not secure because it has low quality security features, I had linux mint once but we figured out it was NOT secure so we switched to Arch Linux.
 
-You can use the [editor on GitHub](https://github.com/c0dertitan/LinuxMint/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Why is Arch Linux better than Linux Mint?
+Arch linux is better because it has HIGH quailty security features and such it is way more secure than Linux Mint if you have Linux Mint you can keep it OR you could use two flashdrives and plug them into you computer/laptop and but a new Operating System and on the other put all your files on it it might take some work but it does work
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# There is more linux operating systems than Linux Mint???
+did you know that there is more linux operating systems than Linux Mint! There is: Arch linux, Ubuntu, Kubuntu, Kali linux & More! you can search it up online for more!!!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/c0dertitan/LinuxMint/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# There is more to come
+There is more to come! see you later!
