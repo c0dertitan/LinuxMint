@@ -5,7 +5,7 @@ so we switched to Arch Linux.
 
 # Why is Arch Linux better than Linux Mint?
 Arch linux is better because it has HIGH quailty security features and such it is way more secure than Linux Mint if you have
-Linux Mint you can keep it OR you could use two flashdrives and plug them into you computer/laptop and but a new Operating System and on the other put all your files on it it might take some work but it does work
+Linux Mint you can keep it OR you could use two flashdrives and plug them into you computer/laptop and put a new Operating System and on the other put all your files on it it might take some work but it does work
 
 
 
